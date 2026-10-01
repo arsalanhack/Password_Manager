@@ -1,0 +1,12 @@
+# Swift / Xcode ignore
+.build/
+.swiftpm/
+Packages/
+xcuserdata/
+*.xcodeproj/
+*.xcworkspace/
+.DS_Store
+
+# Password Manager App local data (if running locally during dev)
+vault_data.enc
+master_config.json
